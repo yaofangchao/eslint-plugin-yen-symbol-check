@@ -14,8 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/yaofangchao/eslint-plugin-yen-symbol-check.git"
   },
+  "bugs": {
+    "url": "https://github.com/yaofangchao/eslint-plugin-yen-symbol-check/issues"
+  },
+  "homepage": "https://github.com/yaofangchao/eslint-plugin-yen-symbol-check#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.1.0",
