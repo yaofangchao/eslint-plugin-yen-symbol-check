@@ -1,0 +1,38 @@
+{
+  "name": "eslint-plugin-yen-symbol-check",
+  "version": "1.0.3",
+  "description": "In the Vue project, eslint prompts to verify whether the Yen sign ¥ is used",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "yfc",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint --fix --ext .js,.vue test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.1.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "mocha": "^7.2.0"
+  },
+  "engines": {
+    "node": "12.x || 14.x || >= 16"
+  },
+  "peerDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.1.0",
+    "eslint-plugin-vue": "^6.2.2"
+  },
+  "dependencies": {},
+  "license": "ISC",
+  "eslintConfig": {
+    "parser": "babel-eslint"
+  }
+}
