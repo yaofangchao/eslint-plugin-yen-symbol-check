@@ -27,7 +27,7 @@
     meta: {
       type: "problem",
       docs: {
-        description: "In the Vue project, eslint prompts to verify whether the Yen sign ¥ is used",
+        description: "In the Vue project, eslint prompts to verify whether the Yen symbol ¥ is used",
         category: "Fill me in",
         recommended: false
       },

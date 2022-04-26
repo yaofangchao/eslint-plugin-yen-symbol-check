@@ -1,6 +1,6 @@
 # eslint-plugin-synlint
 
-In the Vue project, eslint prompts to verify whether the Yen sign ¥ is used
+In the Vue project, eslint prompts to verify whether the Yen symbol ¥ is used
 
 **Notice** Change the rule to skip the attribute verification prompt of this
 
